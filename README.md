@@ -1,4 +1,4 @@
 Archiving
 =========
 
-A simple demo of archiving and unarchiving app data.
+A simple (and incomplete) demo of archiving and unarchiving app data.
